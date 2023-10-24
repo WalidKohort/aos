@@ -1018,10 +1018,6 @@
     {
       "url": "https://api.kohortpay.dev",
       "description": "staging"
-    },
-    {
-      "url": "http://localhost:3000/",
-      "description": "Development"
     }
   ],
   "components": {
