@@ -3,7 +3,7 @@
   "paths": {
     "/organizations/{id}": {
       "get": {
-        "operationId": "OrganizationsController_findOne",
+        "operationId": "Organizations_findOne",
         "summary": "Retrieve an organization by ID or Clerk ID.",
         "parameters": [
           {
